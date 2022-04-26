@@ -1,0 +1,6 @@
+ns1.nameservers.com
+ns2.nameservers.com
+
+
+ns1.dns-parking.com
+ns2.dns-parking.com
